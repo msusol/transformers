@@ -1,6 +1,8 @@
 # HuggingFace (ML)
 mlruns/
 wandb/
+bigbird-roberta-ner/checkpoint-*
+bigbird-roberta-ner/runs/
 
 # IntelliJ project files
 .idea
